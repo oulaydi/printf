@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * grip_buf - concatenates the buffer characters
+ * grip_buf - function that concatenates the buffer characters
  * @buf: buffer pointer
  * @c: charcter to concatenate
  * @ibuf: index of buffer pointer
